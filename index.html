@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie Explorer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Movie Explorer</h1>
+    <div class="search-bar">
+      <input type="text" id="search-input" placeholder="Enter a movie name...">
+      <button id="search-button">Search</button>
+    </div>
+
+    <h2 class="section-title">Recommended Movies</h2>
+    <div id="recommendations" class="movie-grid"></div>
+
+    <h2 id="results-title" class="section-title" hidden>Search Results</h2>
+    <div id="related-movies" class="movie-grid"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
