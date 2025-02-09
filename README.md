@@ -9,12 +9,9 @@
     <li>Clicking on a movie opens a Google search for more information.</li>
   </ul>
   
-  <h2>Technologies Used</h2>
+  <h2>Tools and Resources</h2>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>OMDb API</li>
-    <li>IMDb API</li>
+    <li>HTML, CSS, JavaScript</li>
+    <li>OMDb API for movie details</li>
+    <li>IMDb API for Rating, Plot</li>
   </ul>
-  
